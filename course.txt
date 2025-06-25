@@ -1,0 +1,86 @@
+🎓 Frontend Development with React.js + Redux
+✅ মোট ক্লাস: ৩০টি (মূল কোর্স) + ৬টি (স্পেশাল ক্লাস )
+ ⏱️ প্রতি ক্লাসের সময়: ২ ঘণ্টা
+ 🕒 মোট সময়: ৭৫+ ঘণ্টা
+ 🎯 লক্ষ্য: Real-world স্কেলযোগ্য Frontend Application তৈরি করা — React, Redux Toolkit, Tailwind CSS, Firebase ইত্যাদি ব্যবহার করে।
+ 📚 আপনি শিখবেন:
+ HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript, React, Redux Toolkit, React Router DOM, React Hook Form, Framer Motion, Cloudinary, Firebase, Vercel
+
+🧩 Course Modules (30 Classes)
+
+🔰 Module 1: Web Foundations (Basics Refresher)
+ Class 1: HTML5 & CSS3 Crash Course
+ Class 2: JavaScript ES6+ Core Concepts
+ Class 3: DOM Manipulation & DevTools
+ 📌 Outcome: React শেখার জন্য প্রয়োজনীয় ওয়েব বেসিকস ক্লিয়ার হবে।
+
+🟦 Module 2: TypeScript for React Developers
+ Class 4: Why TypeScript? Setup & Syntax + Types introduction
+ Class 5: Typing Props, State, Interface, and Events
+ Class 6: Type-safe Functional Components + Generics
+ 📌 Outcome: Strongly typed React অ্যাপ বানানোর দক্ষতা অর্জন করবেন।
+
+⚛️ Module 3: Introduction to React
+ Class 7: Intro to React, JSX & Folder Structure
+ Class 8: Components, Props, and Rendering
+ Class 9: useState, useRef, Event Handling
+ 📌 Outcome: Component-based UI তৈরির ধারণা স্পষ্ট হবে।
+
+♻️ Module 4: React Core & Hooks
+ Class 10: useEffect ও Lifecycle Handling
+ Class 11: Lists, Keys, Conditional Rendering
+ Class 12: useId, useMemo, useCallback, useReducer, useTransition, useOptimistic
+ 📌 Outcome: React performance এবং advanced UI logic হ্যান্ডেল করতে পারবেন।
+
+🧠 Module 5: Component Architecture & Local State
+ Class 13: Lifting State Up ও Reusable Components
+ Class 14: Context API দিয়ে State Management
+ Class 15: Local Storage, Custom Hooks & Component Structure
+ 📌 Outcome: Maintainable ও scalable UI structure তৈরি।
+
+🧰 Module 6: Redux Fundamentals
+ Class 16: Redux Overview + State Structure
+ Class 17: Redux Toolkit Setup & Slice Creation
+ Class 18: Dispatch, useSelector, Store Integration
+ 📌 Outcome: Medium to large অ্যাপে state management দক্ষতা তৈরি হবে।
+
+🌐 Module 7: Async Redux & API Integration
+ Class 19: Redux Thunk for Async Logic / RTK Query
+ Class 20: API Integration + Error & Loading States
+ Class 21: Firebase Auth Flow / Cloudinary Integration
+ 📌 Outcome: বাস্তব API ও Auth-based UI তৈরি করা শিখবেন।
+
+🎨 Module 8: UI Design & Styling
+ Class 22: TailwindCSS Setup + Utility-first Styling
+ Class 23: Responsive Layouts (Grid, Flex) + Custom Components
+ Class 24: Design Systems + Accessibility Basics
+ 📌 Outcome: Modern ও aesthetic UI ডিজাইন ও স্কেল করতে পারবেন।
+
+🧭 Module 9: Routing, Forms & UX
+ Class 25: React Router DOM (Basic to Nested Routes)
+ Class 26: Protected Routes + Auth UI
+ Class 27: React Hook Form, Validations, Framer Motion Animations
+ 📌 Outcome: UX, Routing flow ও animation যুক্ত অ্যাপ তৈরি।
+
+🚀 Module 10: Final Project & Deployment
+ Class 28: Final Project Build (E-commerce / Dashboard UI with Auth, Routing, API)
+ Class 29: Project Polishing: Animation, Error Handling, Testing Basics
+ Class 30: GitHub + Vercel Deployment, SEO, Portfolio Setup
+ 📌 Outcome: ডেপ্লয়ড প্রজেক্ট ও Freelancing/Job portfolio প্রস্তুত থাকবে।
+
+🎁 6টি স্পেশাল ক্লাস(Bonus)
+ 🎤 Special Class 1: ইংরেজিতে যোগাযোগ দক্ষতা প্রশিক্ষণ (Speaking, Email, Presentation)
+ 📝 Special Class 2: সিভি/রিজিউমি বিশ্লেষণ, রিভিউ এবং Industry-Ready Template তৈরির প্র্যাকটিস
+ 🤖 Special Class 3: AI Tools Integration ও Prompt Engineering টেকনিক
+ 🧠 Special Class 4: ইন্টারভিউ হ্যাকস ও চাকরি প্রস্তুতির গাইডলাইন
+ 🎙️ Special Class 5: ১:১ লাইভ ইন্টারভিউ প্র্যাকটিস (With Feedback)
+ 💼 Special Class 6: ৫,০০০ টাকা মূল্যের প্রিমিয়াম রিসোর্স প্যাক (Templates, Kits, Pro Tools)
+
+✅ শেষে আপনি পাবেন:
+🎓 Certificate of Completion
+🧳 Freelancing ও Job-Ready Portfolio
+💬 Communication, Interview & CV Skillset
+💻 Real project deployed on GitHub + Vercel
+💸 Bonus tools + Interview crack techniques
+
+
