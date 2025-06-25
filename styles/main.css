@@ -1278,13 +1278,17 @@ input[type="submit"]:hover {
   margin-bottom: 0;
 }
 
+.course-hero.frontend {
+  background: url("/assets/images/covers/frontend.jpg") top/cover no-repeat;
+}
+
 .hero-overlay {
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0.8);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1292,6 +1296,7 @@ input[type="submit"]:hover {
 
 .hero-content {
   max-width: 900px;
+
   padding: 20px;
   z-index: 2;
 }
@@ -1430,9 +1435,15 @@ input[type="submit"]:hover {
 }
 
 .tech-item {
-  background: linear-gradient(135deg, #e53935, #43a047);
+  background: rgb(62, 180, 137);
+  background: linear-gradient(
+    159deg,
+    rgba(62, 180, 137, 1) 0%,
+    rgba(144, 238, 144, 1) 100%
+  );
   color: white;
   padding: 15px 20px;
+  font-size: 0.9rem;
   border-radius: 10px;
   text-align: center;
   font-weight: 600;
@@ -1477,9 +1488,9 @@ input[type="submit"]:hover {
 }
 
 .accordion-header {
-  padding: 25px 30px;
-  background: linear-gradient(135deg, #e53935, #43a047);
-  color: white;
+  padding: 10px 30px;
+  background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
+  color: black;
   cursor: pointer;
   display: flex;
   justify-content: space-between;
@@ -1490,7 +1501,12 @@ input[type="submit"]:hover {
 }
 
 .accordion-header:hover {
-  background: linear-gradient(135deg, #b71c1c, #1b5e20);
+  background: rgb(62, 180, 137);
+  background: linear-gradient(
+    159deg,
+    rgba(62, 180, 137, 1) 0%,
+    rgba(144, 238, 144, 1) 100%
+  );
   transform: translateY(-2px);
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 }
@@ -1507,7 +1523,10 @@ input[type="submit"]:hover {
 }
 
 .module-number {
-  background: rgba(255, 255, 255, 0.2);
+  /* background: rgba(255, 255, 255, 0.2); */
+  background-color: #b7410e;
+  background-image: linear-gradient(316deg, #b7410e 0%, #ff5349 74%);
+  color: white;
   width: 40px;
   height: 40px;
   border-radius: 50%;
@@ -1521,6 +1540,7 @@ input[type="submit"]:hover {
 .accordion-header h3 {
   margin: 0;
   font-size: 1.3rem;
+  color: black;
 }
 
 .accordion-header i {
@@ -1635,7 +1655,12 @@ input[type="submit"]:hover {
 .bonus-icon {
   width: 80px;
   height: 80px;
-  background: linear-gradient(135deg, #e53935, #43a047);
+  background: rgb(62, 180, 137);
+  background: linear-gradient(
+    159deg,
+    rgba(62, 180, 137, 1) 0%,
+    rgba(144, 238, 144, 1) 100%
+  );
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -1662,7 +1687,12 @@ input[type="submit"]:hover {
 /* Outcomes Section */
 .outcomes-section {
   padding: 40px;
-  background: linear-gradient(135deg, #e53935, #43a047);
+  background: rgb(62, 180, 137);
+  background: linear-gradient(
+    159deg,
+    rgba(62, 180, 137, 1) 0%,
+    rgba(144, 238, 144, 1) 100%
+  );
   color: white;
 }
 
@@ -1670,6 +1700,7 @@ input[type="submit"]:hover {
   text-align: center;
   font-size: 2.5rem;
   margin-bottom: 30px;
+  color: rgb(66, 33, 33);
 }
 
 .outcomes-grid {
@@ -1697,7 +1728,7 @@ input[type="submit"]:hover {
 
 .outcome-item i {
   font-size: 2rem;
-  color: #43a047;
+  color: white;
 }
 
 .outcome-item span {
@@ -1865,5 +1896,157 @@ input[type="submit"]:hover {
 
   .class-number {
     min-width: auto;
+  }
+}
+
+/* Class Schedule Section */
+.class-schedule-section {
+  padding: 40px;
+  background: white;
+}
+
+.class-schedule-section h2 {
+  text-align: center;
+  color: #683091;
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+}
+
+.schedule-container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.schedule-card {
+  background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+  border-radius: 20px;
+  padding: 40px;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  border: 2px solid transparent;
+  transition: all 0.3s ease;
+}
+
+.schedule-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+  border-color: #43a047;
+}
+
+.schedule-icon {
+  width: 80px;
+  height: 80px;
+  background-color: #b7410e;
+  background-image: linear-gradient(316deg, #b7410e 0%, #ff5349 74%);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 25px;
+}
+
+.schedule-icon i {
+  font-size: 2rem;
+  color: white;
+}
+
+.schedule-details h3 {
+  color: #333;
+  font-size: 1.5rem;
+  margin-bottom: 25px;
+  font-weight: 600;
+}
+
+.schedule-days {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-bottom: 25px;
+  flex-wrap: wrap;
+}
+
+.day-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 15px 20px;
+  background: white;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.day-item:hover {
+  transform: translateY(-3px);
+}
+
+.day-item i {
+  font-size: 1.5rem;
+  color: #e53935;
+}
+
+.day-item span {
+  font-weight: 600;
+  color: #333;
+  font-size: 1rem;
+}
+
+.schedule-time {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  background-color: #b7410e;
+  background-image: linear-gradient(316deg, #b7410e 0%, #ff5349 74%);
+  color: white;
+  padding: 15px 25px;
+  border-radius: 25px;
+  margin-bottom: 15px;
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.schedule-time i {
+  font-size: 1.2rem;
+}
+
+.schedule-note {
+  color: #666;
+  font-style: italic;
+  margin: 0;
+  font-size: 1rem;
+}
+
+/* Responsive Design for Schedule */
+@media screen and (max-width: 768px) {
+  .schedule-days {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .day-item {
+    flex-direction: row;
+    justify-content: center;
+    gap: 15px;
+  }
+
+  .schedule-card {
+    padding: 30px 20px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .class-schedule-section h2 {
+    font-size: 2rem;
+  }
+
+  .schedule-details h3 {
+    font-size: 1.3rem;
+  }
+
+  .schedule-time {
+    font-size: 1rem;
+    padding: 12px 20px;
   }
 }
