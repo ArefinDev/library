@@ -1,0 +1,117 @@
+🎨 UI/UX Design & Development Course (Figma + Complete UX Workflow)
+✅ মোট ক্লাস: ৩০টি (মূল কোর্স) + ৬টি (লাইভ সাপোর্ট ক্লাস)
+ ⏱️ প্রতি ক্লাসের সময়: ২ ঘণ্টা
+ 🕒 মোট সময়: ৭৫+ ঘণ্টা
+ 📅 দিন: রবি, মঙ্গল, বৃহস্পতি 
+
+🕒 সময়: সন্ধ্যা 9:00 - 11:00 টা
+ক্লাস শুরু: 20 জুলাই ২০২৫
+ 🎯 লক্ষ্য: Research থেকে শুরু করে final prototype পর্যন্ত – ব্যবহারকারী-কেন্দ্রিক, intuitive এবং visually engaging UI/UX ডিজাইন শেখা।
+📚 আপনি শিখবেন:
+ Figma, UI Components, Prototyping, UX Research, Design Thinking, Wireframing, Color & Typography, User Flows, Accessibility, Design Systems, UX Writing
+
+🧩 Course Modules (30 Classes)
+
+🧠 Module 1: UI Design Foundations (3 ক্লাস)
+Class 1: Introduction to UI Design & Design Thinking Overview
+Class 2: Layout and Composition in UI
+Class 3: Color Theory and UI Color Systems
+ 📌 Outcome: ডিজাইনের ভিজ্যুয়াল বেসিকস ও ফাউন্ডেশন গড়ে উঠবে।
+
+🔍 Module 2: Typography & Spacing (3 ক্লাস)
+Class 4: Typography in UI
+Class 5: Spacing and Grids
+Class 6: Text & Fonts Advanced
+ 📌 Outcome: Clean এবং readable UI টাইপোগ্রাফি ডিজাইন করতে পারবেন।
+
+✍️ Module 3: Figma Essentials & Speed Techniques (4 ক্লাস)
+Class 7: Getting Started with Figma – Interface, Frames, Tools
+Class 8: Auto Layout and Components
+Class 9: Figma Plugins, Styles, Workflow Tips
+ Class 10: Imagery and Iconography
+ 📌 Outcome: Figma-তে দ্রুত ও প্রোফেশনালি কাজ করার টেকনিক আয়ত্তে আসবে।
+
+🎨 Module 4: UI Components & Systems (4 ক্লাস)
+Class 11: Forms and UI Elements
+Class 12: Sketching
+Class 13: What is Design System
+Class 14: How to Create Design Systems
+ 📌 Outcome: Scalable UI Kits ও Reusable Components তৈরি করতে পারবেন।
+
+🖼️ Module 5: Mobile UI Patterns (2 ক্লাস)
+Class 15: Designing for Mobile Screens
+Class 16: Variables in Figma
+ 📌 Outcome: Mobile-first design এর জন্য responsive layout ও components তৈরি হবে।
+
+🧩 Module 6: Prototyping & Interactions (4 ক্লাস)
+Class 17: Prototyping
+Class 18: Prototyping in Figma Level -1
+Class 19: Prototyping in Figma Level -2
+Class 20: Animation (Microinteractions)
+ 📌 Outcome: Functional এবং realistic user interaction ডিজাইন শিখবেন।
+
+🌀 Module 7: UX Fundamentals (1 ক্লাস)
+Class 21: UX vs UI: What’s the Difference?
+ 📌 Outcome: UX thinking ও ব্যবহারের গুরুত্ব বুঝবেন।
+
+🏛️ Module 8: User Research & Empathy (2 ক্লাস)
+Class 22: UX Research Methods (Interviews, Surveys, Personas)
+Class 23: Empathy Maps & User Journey Maps
+ 📌 Outcome: ইউজার-বেইসড ডিজাইনের জন্য ইনসাইট জেনারেট করতে পারবেন।
+
+🧑‍💻 Module 9: UX Planning (2 ক্লাস)
+Class 24: User Flows & Storyboarding
+Class 25: Sitemaps
+ 📌 Outcome: ক্লিয়ার এবং intuitive ইউজার জার্নি ম্যাপ করতে পারবেন।
+
+🧑‍💻 Module 10: Wireframing UX (3 ক্লাস)
+Class 26: Low-Fidelity Wireframes (Paper & Figma)
+Class 27: Design Patterns
+Class 28: How to Use Wireframes
+ 📌 Outcome: Quick iteration ও logical layout ডিজাইন শিখবেন।
+
+🧑‍💻 Module 11: UX Writing & Accessibility (2 ক্লাস)
+Class 29: UX Writing (Microcopy, Buttons, Forms)
+Class 30: Accessibility in UI Design
+ 📌 Outcome: Inclusive ডিজাইন এবং clear communication ensure করতে পারবেন।
+
+📦 Final Project Deliverables
+🔍 Problem Statement + UX Research
+
+
+🗺️ User Flow + Sitemap
+
+
+🧱 Wireframes + Mid-Fidelity Mockups
+
+
+🖼️ Complete UI in Figma (Mobile + Desktop)
+
+
+📲 Clickable Prototype + Case Study Presentation
+
+
+
+
+🎯 Final Course Outcomes
+By completing this course, students will:
+✅ UI/UX এর A–Z প্র‍্যাকটিকালি শিখে ফেলবে
+✅ Figma-তে complete design system, UI kit এবং prototype build করতে পারবে
+✅ UX research থেকে শুরু করে wireframe ও flow planning করতে পারবে
+✅ Freelancing, agency অথবা team handoff এর জন্য প্র‍ফেশনাল ডেলিভারেবল তৈরি করতে পারবে
+✅ Interview-ready portfolio প্র‍জেক্ট তৈরি থাকবে
+🎁 6টি লাইভ সাপোর্ট সেশন (Bonus)
+🎤 Special Class 1: ইংরেজিতে যোগাযোগ দক্ষতা প্রশিক্ষণ (Speaking, Email, Presentation)
+ 📝 Special Class 2: সিভি/রিজিউমি বিশ্লেষণ, রিভিউ এবং Industry-Ready Template তৈরির প্র্যাকটিস
+ 🤖 Special Class 3: AI Tools Integration ও Prompt Engineering টেকনিক
+ 🧠 Special Class 4: ইন্টারভিউ হ্যাকস ও চাকরি প্রস্তুতির গাইডলাইন
+ 🎙️ Special Class 5: ১:১ লাইভ ইন্টারভিউ প্র্যাকটিস (With Feedback)
+ 💼 Special Class 6: ৫,০০০ টাকা মূল্যের প্রিমিয়াম রিসোর্স প্যাক (Templates, Kits, Pro Tools)
+
+✅ শেষে আপনি পাবেন:
+🎓 Certificate of Completion
+🧳 Freelancing ও Job-Ready Portfolio
+💬 Communication, Interview & CV Skillset
+💻 Real project deployed on GitHub + Vercel
+💸 Bonus tools + Interview crack techniques
+

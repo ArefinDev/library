@@ -1,0 +1,112 @@
+🎨 Graphic Design Course (Photoshop + Illustrator + Canva)
+✅ মোট ক্লাস: ৩০টি (মূল কোর্স) + ৬টি (লাইভ সাপোর্ট ক্লাস)
+ ⏱️ প্রতি ক্লাসের সময়: ২ ঘণ্টা
+ 🕒 মোট সময়: ৭৫+ ঘণ্টা
+  📅 দিন: শনিবার, সোমবার, বুধবার
+
+🕒 সময়: সন্ধ্যা 9:00 - 11:00 টা
+ক্লাস শুরু: 19 জুলাই ২০২৫
+ 🎯 লক্ষ্য: Canva, Adobe Illustrator, Adobe Photoshop এবং আধুনিক ডিজাইন থিওরি ব্যবহার করে Branding, Digital Content এবং Client Project তৈরি করার পূর্ণ দক্ষতা অর্জন।
+📚 আপনি শিখবেন:
+ Canva, Adobe Photoshop, Adobe Illustrator, Typography, Color Theory, Branding, AI in Design, Client Project Handling, Portfolio Creation
+
+🧩 Course Modules (30 Classes)
+
+🟣 Module 1: Canva Fundamentals & Smart Design
+Class 1: Canva Homepage Introduction
+ Class 2: Working with Text, Photos, and Colors
+ Class 3: Aligning & Layering Elements
+ 📌 Outcome: Canva দিয়ে Branding, Social Media Post, Poster ডিজাইন confidently তৈরি করতে পারবেন।
+
+🟡 Module 2: Canva AI Features
+Class 4: Do More with Canva Apps & Tools
+ 📌 Outcome: Canva এর মাধ্যমে ডিজাইন থিওরি ও ব্র্যান্ড এসেট তৈরি শেখা।
+
+🔵 Module 3: Branding & Social Media Design
+Class 5: Template Selection & Brand Style Guide Setup
+ Class 6: Adding Your Content
+ Class 7: Styling Documents
+ Class 8: Designing for Social Media – Part 1
+ Class 9: Designing for Social Media – Part 2
+ 📌 Outcome: Strong social presence ও content branding এর জন্য ডিজাইন দক্ষতা তৈরি হবে।
+
+🧩 Module 4: Graphic Design Theory
+Class 10: Typography Basics
+ Class 11: Color Theory (Wheel, Harmony, Branding Use)
+ 📌 Outcome: Typography ও Color ব্যবহারে Professional Touch আনতে পারবেন।
+
+🚀 Module 5: Artificial Intelligence in Graphic Design
+Class 12: Intro to AI Tools, Prompts & Ethics
+ 📌 Outcome: Responsible ও smart way-তে AI tools ব্যবহার শিখবেন।
+
+🤖 Module 6: Adobe Illustrator Basics
+Class 13: Dashboard & Interface (Part 1)
+ Class 14: Dashboard & Interface (Part 2)
+ Class 15: Vector Badge Mini Project
+ Class 16: 3D Tools Overview
+ Class 17: Blend, Transform, Repeat Tools
+ 📌 Outcome: Professional-grade vector artwork, logo এবং badge ডিজাইন শিখবেন।
+
+📈 Module 7: Logo Design & Branding Project
+Class 18: Logo Design & Branding – Part 1
+ Class 19: Logo Design & Branding – Part 2
+ 📌 Outcome: Freelancing বা agency-এর জন্য ready logo ও brand asset তৈরি হবে।
+
+🧪 Module 8: Adobe Photoshop – Beginner Level
+Class 20: Photoshop Introduction & Setup
+ Class 21: Tools Walkthrough & Mini Projects
+ Class 22: Basic Photo Editing Techniques
+ Class 23: Using Gradient Maps
+ 📌 Outcome: Photo touch-up, retouching, basic compositions confidentভাবে করতে পারবেন।
+
+💡 Module 9: Adobe Photoshop – Intermediate Level
+Class 24: Intermediate Tools & Techniques
+ Class 25: Editing & Manipulation – Part 1
+ Class 26: Editing & Manipulation – Part 2
+ Class 27: Double Exposure Creative Effect
+ Class 28: Book Cover Design – Part 1
+ Class 29: Book Cover Design – Part 2
+ Class 30: Working with Mockups
+ 📌 Outcome: Real-world graphics (cover, mockup, creative content) confidently তৈরি করা শিখবেন।
+
+🧑‍🎓 Final Project Deliverables
+✅ Brand Kit (Logo, Typography, Color Palette, Templates)
+
+
+✅ Social Media Campaign (3–5 Posts, Story Templates)
+
+
+✅ Poster/Flyer (Print + Digital Versions)
+
+
+✅ Vector Illustration or Badge
+
+
+✅ Case Study with Portfolio Presentation
+
+
+
+🎯 Final Course Outcomes:
+By completing this course, students will:
+ 🎨 Confidently design using Canva, Photoshop & Illustrator
+ 📐 Apply practical design theory in branding & visuals
+ 📦 Deliver client-ready materials (ads, logos, brand assets)
+ 🤖 Use AI in design workflows, ethically and creatively
+ 💼 Launch freelancing/agency career with polished portfolio
+
+🎁 6টি লাইভ সাপোর্ট সেশন (Bonus)
+🎤 Special Class 1: ইংরেজিতে যোগাযোগ দক্ষতা প্রশিক্ষণ (Speaking, Email, Presentation)
+ 📝 Special Class 2: সিভি/রিজিউমি বিশ্লেষণ, রিভিউ এবং Industry-Ready Template তৈরির প্র্যাকটিস
+ 🤖 Special Class 3: AI Tools Integration ও Prompt Engineering টেকনিক
+ 🧠 Special Class 4: ইন্টারভিউ হ্যাকস ও চাকরি প্রস্তুতির গাইডলাইন
+ 🎙️ Special Class 5: ১:১ লাইভ ইন্টারভিউ প্র্যাকটিস (With Feedback)
+ 💼 Special Class 6: ৫,০০০ টাকা মূল্যের প্রিমিয়াম রিসোর্স প্যাক (Templates, Kits, Pro Tools)
+
+✅ শেষে আপনি পাবেন:
+🎓 Certificate of Completion
+🧳 Freelancing ও Job-Ready Portfolio
+💬 Communication, Interview & CV Skillset
+💻 Real project deployed on GitHub + Vercel
+💸 Bonus tools + Interview crack techniques
+
+

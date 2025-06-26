@@ -1,0 +1,83 @@
+🎓 Backend Development with Node.js + Express.js + MongoDB
+✅ মোট ক্লাস: ৩০টি (মূল কোর্স) + ৬টি (স্পেশাল ক্লাস)
+ ⏱️ প্রতি ক্লাসের সময়: ২ ঘণ্টা
+ 🕒 মোট সময়: ৭৫+ ঘণ্টা
+ 🎯 লক্ষ্য: RESTful API তৈরি, Authentication, CRUD Operations, Database Integration এবং Deployable Backend Project বানানোর পূর্ণ দক্ষতা অর্জন।
+ 📚 আপনি শিখবেন:
+ JavaScript, TypeScript, Node.js, Express.js, MongoDB, Mongoose, Zod, Multer, JWT, Postman, GitHub, Railway/Render Deployment
+
+🧩 Course Modules (30 Classes)
+
+🔰 Module 1: Node.js Fundamentals
+Class 1: What is Backend? Why Node.js? + Installation
+ Class 2: Node.js Core Modules (fs, path, events)
+ Class 3: Creating Your First Server + npm Basics
+ 📌 Outcome: Node.js এর runtime ও basic server বোঝার সহজ সূচনা।
+
+🚦 Module 2: Express.js Introduction
+Class 4: Installing Express + Basic Routing
+ Class 5: Middleware Concept + Custom Middleware
+ Class 6: API Structure, MVC Pattern & RESTful Principles
+ 📌 Outcome: REST API বানানোর মানসম্পন্ন স্ট্রাকচার ও রাউটিং ধারণা তৈরি।
+
+🧮 Module 3: MongoDB + Mongoose
+Class 7: What is NoSQL? MongoDB Overview + Compass
+ Class 8: Mongoose Models & Schema Design
+ Class 9: CRUD Operations with MongoDB
+ 📌 Outcome: NoSQL DB connect করে ডেটা স্টোর ও ম্যানেজ করতে পারবেন।
+
+🔐 Module 4: Authentication & Authorization
+Class 10: JWT Tokens – Login/Signup Flow
+ Class 11: Password Hashing with Bcrypt
+ Class 12: Auth Middleware & Route Protection
+ 📌 Outcome: ইউজার অথেন্টিকেশন ও প্রটেক্টেড রাউট তৈরি করা শিখবেন।
+
+🔍 Module 5: API Best Practices
+Class 13: Request Validation with Zod or Joi
+ Class 14: Global Error Handling, Try-Catch & Async Safety
+ Class 15: Environment Variables & .env Setup
+ 📌 Outcome: Production-grade API রুলস ও সিকিউরিটি ক্লিয়ার হবে।
+
+🌐 Module 6: Advanced Express Topics
+Class 16: File Upload with Multer
+ Class 17: Pagination, Filtering, and Sorting APIs
+ Class 18: API Security: CORS, Helmet, Rate Limiting
+ 📌 Outcome: পারফর্ম্যান্স ও সিকিউরিটির জন্য API গুলো আরও শক্তিশালী হবে।
+
+🔄 Module 7: Async, Events & Modularization
+Class 19: Async/Await, Promises Explained
+ Class 20: Modular Routing, Controller-Service Pattern
+ Class 21: Refactoring Real App for Scalability
+ 📌 Outcome: ক্লিন, রিডেবল ও মডুলার ব্যাকএন্ড কোডিং শিখবেন।
+
+🧑‍💻 Module 8: Mini Project (API-Based)
+Class 22: Project Planning (Blog, Task Manager, Inventory App)
+ Class 23: DB Models, Folder Structure, Route Setup
+ Class 24: Auth & Role-based Access Control
+ Class 25: CRUD Functionalities + Testing with Postman
+ Class 26: Error Handling, Logging & API Documentation
+ Class 27: Swagger or Markdown-based API Docs
+ 📌 Outcome: একটি পূর্ণ API প্রজেক্ট রেডি থাকবে GitHub-এ আপলোডের জন্য।
+
+🚀 Module 9: Deployment + Career Prep
+Class 28: MongoDB Atlas, Remote DB & .env Config
+ Class 29: Deployment (Render, Railway, or VPS) + GitHub Workflow
+ Class 30: Final Project Demo + Backend Interview Q&A
+ 📌 Outcome: প্রজেক্ট অনলাইনে ডেপ্লয় + চাকরির প্রস্তুতি সম্পন্ন।
+
+🎁 6টি লাইভ সাপোর্ট সেশন (Bonus)
+🎤 Special Class 1: ইংরেজিতে যোগাযোগ দক্ষতা প্রশিক্ষণ (Speaking, Email, Presentation)
+ 📝 Special Class 2: সিভি/রিজিউমি বিশ্লেষণ, রিভিউ এবং Industry-Ready Template তৈরির প্র্যাকটিস
+ 🤖 Special Class 3: AI Tools Integration ও Prompt Engineering টেকনিক
+ 🧠 Special Class 4: ইন্টারভিউ হ্যাকস ও চাকরি প্রস্তুতির গাইডলাইন
+ 🎙️ Special Class 5: ১:১ লাইভ ইন্টারভিউ প্র্যাকটিস (With Feedback)
+ 💼 Special Class 6: ৫,০০০ টাকা মূল্যের প্রিমিয়াম রিসোর্স প্যাক (Templates, Kits, Pro Tools)
+
+
+✅ শেষে আপনি পাবেন:
+🎓 Certificate of Completion
+🧳 Freelancing ও Job-Ready Portfolio
+💬 Communication, Interview & CV Skillset
+💻 Real project deployed on GitHub + Vercel
+💸 Bonus tools + Interview crack techniques
+

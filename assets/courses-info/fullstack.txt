@@ -1,0 +1,111 @@
+
+🟩 Full Stack Web Development with Next.js + Prisma
+✅ মোট ক্লাস: ৩০টি (মূল কোর্স) + ৬টি (লাইভ সাপোর্ট ক্লাস)
+ ⏱️ প্রতি ক্লাসের সময়: ২ ঘণ্টা
+ 🕒 মোট সময়: ৭৫+ ঘণ্টা
+ 📅 দিন: রবি, মঙ্গল, বৃহস্পতি 
+
+🕒 সময়: সন্ধ্যা 7:00 - 9:00 টা
+ক্লাস শুরু: 20 জুলাই ২০২৫
+
+ 🎯 লক্ষ্য: Real-world Full Stack Web Application তৈরি করা — Next.js, Prisma, Tailwind CSS ও Modern Auth Flow ব্যবহার করে।
+ 📚 আপনি শিখবেন:
+ JavaScript, TypeScript, Next.js (App Router), Prisma, Zod, Tailwind CSS, Shadcn/UI, React Hook Form, Zustand, Auth.js, Clerk, OAuth, Vercel Deployment
+
+🧩 Course Modules (30 Classes)
+
+🔰 Module 1: Web Dev Overview + Tools Setup
+Class 1: What is Full Stack Development? Why Next.js?
+ Class 2: Modern Web Architecture (SSR, CSR, API Routes)
+ Class 3: Node, VS Code, GitHub, Vercel, Prisma Studio Setup
+ 📌 Outcome: Toolchain এবং Development environment বুঝে যাবেন।
+
+⚛️ Module 2: Next.js Core Concepts
+Class 4: App Router, Pages, Routing & File Structure
+ Class 5: Components, Props, State Management
+ Class 6: Layouts, Shared UI, Metadata & SEO Tags
+ 📌 Outcome: Component-based multipage app build করতে পারবেন।
+
+🎨 Module 3: Tailwind CSS + UI Design
+Class 7: TailwindCSS Setup + Utility-first Styling
+ Class 8: Grid/Flex Layouts + Responsive Design
+ Class 9: UI Elements with Shadcn — Buttons, Cards, Modals
+ 📌 Outcome: Modern ও professional UI design efficiently করতে পারবেন।
+
+🌐 Module 4: Data Fetching in Next.js
+Class 10: SSG vs SSR vs ISR Explained
+ Class 11: Client-side Data Fetching (SWR, useEffect)
+ Class 12: Next.js API Routes (GET, POST, DELETE)
+ 📌 Outcome: Server ও client side data handle করার দক্ষতা অর্জন করবেন।
+
+🛢️ Module 5: Prisma + Database Integration
+Class 13: What is Prisma? DB Setup (Mongo/PostgreSQL)
+ Class 14: Prisma Schema, Models, CRUD Operations
+ Class 15: Prisma Client, Relationships, Seeding
+ 📌 Outcome: Efficient DB queries ও Schema management করতে পারবেন।
+
+🔐 Module 6: Authentication & Authorization
+Class 16: Auth.js, Clerk, Credentials vs OAuth Flow
+ Class 17: Implementing NextAuth.js + Prisma Adapter
+ Class 18: Protected Routes + Role-based Authorization
+ 📌 Outcome: Secure এবং scalable login/auth system তৈরি করা শিখবেন।
+
+📦 Module 7: Project Architecture + State Management
+Class 19: Folder Structure, API Layering, Lib Separation
+ Class 20: useContext vs Zustand for Global State
+ Class 21: React Hook Form + Zod Validation
+ 📌 Outcome: Maintainable ও developer-friendly full stack structure তৈরি।
+
+🧑‍💻 Module 8: Full Stack Project Development
+Class 22–27:
+✅ Project Planning (Blog, SaaS, Dashboard, Job Board)
+
+
+✅ UI Pages + State & Auth Integration
+
+
+✅ Backend API Integration (CRUD, Prisma ORM)
+
+
+✅ Admin Panel + Role Management
+
+
+✅ Error Handling, Testing & Feedback Loop
+
+
+✅ SEO + Performance Optimization
+ 📌 Outcome: একদম শেষ পর্যন্ত end-to-end deployed full stack project build।
+
+
+
+🚀 Module 9: Deployment + Final Touch
+Class 28: Vercel Deployment + .env Setup
+ Class 29: Database Hosting: PlanetScale, Railway, Supabase
+ Class 30: Final Project Demo, Portfolio Setup, Interview Q&A
+ 📌 Outcome: Portfolio-ready project এবং confident job application readiness।
+
+💼 Final Project Ideas:
+📝 Multi-user Blog (Auth, Like/Comment, Role Control)
+💼 Job Board (Admin Panel, Filters, Role-based Auth)
+📊 SaaS Dashboard (Stats, Charts, Team Access)
+
+🎁 6টি লাইভ সাপোর্ট সেশন (Bonus)
+🎤 Special Class 1: ইংরেজিতে যোগাযোগ দক্ষতা প্রশিক্ষণ (Speaking, Email, Presentation)
+ 📝 Special Class 2: সিভি/রিজিউমি বিশ্লেষণ, রিভিউ এবং Industry-Ready Template তৈরির প্র্যাকটিস
+ 🤖 Special Class 3: AI Tools Integration ও Prompt Engineering টেকনিক
+ 🧠 Special Class 4: ইন্টারভিউ হ্যাকস ও চাকরি প্রস্তুতির গাইডলাইন
+ 🎙️ Special Class 5: ১:১ লাইভ ইন্টারভিউ প্র্যাকটিস (With Feedback)
+ 💼 Special Class 6: ৫,০০০ টাকা মূল্যের প্রিমিয়াম রিসোর্স প্যাক (Templates, Kits, Pro Tools)
+
+
+
+✅ শেষে আপনি পাবেন:
+🎓 Certificate of Completion
+🧳 Freelancing ও Job-Ready Portfolio
+💬 Communication, Interview & CV Skillset
+💻 Real project deployed on GitHub + Vercel
+💸 Bonus tools + Interview crack techniques
+
+
+
+
